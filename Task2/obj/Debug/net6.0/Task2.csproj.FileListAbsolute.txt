@@ -1,0 +1,15 @@
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\bin\Debug\net6.0\Task2.exe
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\bin\Debug\net6.0\Task2.dll
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\bin\Debug\net6.0\Task2.pdb
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\obj\Debug\net6.0\Task2.dll
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\obj\Debug\net6.0\Task2.pdb
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\асус\док\Учеба\С#\Семинары\Домашка\HW3\Task2\obj\Debug\net6.0\ref\Task2.dll
